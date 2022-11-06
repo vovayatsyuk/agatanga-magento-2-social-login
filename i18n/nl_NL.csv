@@ -16,14 +16,12 @@ Newspaper,Krant
 Zoom-out,Uitzoomen
 "Customer Login Page","Loginpagina voor klanten"
 "Customer Create Page","Klantpagina maken"
-"Social Popup Login","Social Popup Login"
 "Login By %1","Inloggen door %1"
 "Sign in with %1","Log in met %1"
 "Create New Account?","Creëer een nieuw account?"
 "Or Sign In With","Of log in met"
 "Create New Account","Creëer een nieuw account"
 "Forgot Password","Wachtwoord vergeten"
-"Go back","Ga terug"
 "Social Login","Sociale login"
 "Send Password To Customer","Stuur wachtwoord naar klant"
 "Show Social Login Buttons on","Laat sociale login-knoppen zien"
@@ -33,7 +31,6 @@ Zoom-out,Uitzoomen
 "Custom Color","Aangepaste kleur"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Maak hier <a href=""https://developers.facebook.com/apps"" target=""_bank"">app</a>"
-"Facebook App Id",Facebook-app-ID
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","Geldige OAuth-omleidings-URI's"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,tjilpen
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Maak hier <a href=""https://dev.twitter.com/apps"" target=""_bank"">app</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Maak hier <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">app</a>"
-"Id Client",Id-client
 "Secret Client","Geheime klant"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Maak hier <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">app</a>"
 Foursquare,Vierkant
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Maak hier <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">app</a>"
-"Callback Url",Callback-URL
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Maak hier <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">app</a>"
 Vkontakte,Vkontakte

@@ -16,14 +16,12 @@ Newspaper,Gazete
 Zoom-out,Uzaklaştır
 "Customer Login Page","Müşteri Giriş Sayfası"
 "Customer Create Page","Müşteri Oluşturma Sayfası"
-"Social Popup Login","Sosyal Popup Girişi"
 "Login By %1","%1 olarak oturum aç"
 "Sign in with %1","%1 ile giriş yap"
 "Create New Account?","Yeni Hesap Oluştur?"
 "Or Sign In With","Veya ile Giriş Yap"
 "Create New Account","Yeni Hesap Oluştur"
 "Forgot Password","Şifremi unuttum"
-"Go back","Geri git"
 "Social Login","Sosyal Giriş"
 "Send Password To Customer","Müşteriye Parola Gönder"
 "Show Social Login Buttons on","Sosyal Giriş Butonlarını Göster"
@@ -33,7 +31,6 @@ Zoom-out,Uzaklaştır
 "Custom Color","Özel Renk"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","<a href=""https://developers.facebook.com/apps"" target=""_bank"">Buradan</a> uygulama oluşturun"
-"Facebook App Id","Facebook Uygulama Kimliği"
 "Facebook App Secret","Facebook Uygulama Parolası"
 "Valid OAuth redirect URIs","Geçerli OAuth yönlendirme URI'leri"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","<a href=""https://dev.twitter.com/apps"" target=""_bank"">Buradan</a> uygulama oluşturun"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","<a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">Buradan</a> uygulama oluşturun"
-"Id Client","Kimlik istemcisi"
 "Secret Client","Gizli müşteri"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","<a href=""https://developer.yahoo.com/apps/"" target=""_bank"">Buradan</a> uygulama oluşturun"
 Foursquare,FourSquare
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","<a href=""https://www.foursquare.com/oauth/"" target=""_bank"">Buradan</a> uygulama oluşturun"
-"Callback Url","Geri arama Url'si"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","<a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">Buradan</a> uygulama oluşturun"
 Vkontakte,Vkontakte

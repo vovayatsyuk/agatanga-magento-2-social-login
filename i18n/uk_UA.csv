@@ -16,14 +16,12 @@ Newspaper,Газета
 Zoom-out,Зменшення
 "Customer Login Page","Сторінка входу клієнта"
 "Customer Create Page","Створити сторінку клієнта"
-"Social Popup Login","Соціальний вхід до спливаючих вікон"
 "Login By %1","Вхід до %1"
 "Sign in with %1","Увійдіть, використовуючи %1"
 "Create New Account?","Створити новий обліковий запис?"
 "Or Sign In With","Або ввійдіть в систему"
 "Create New Account","Створити новий обліковий запис"
 "Forgot Password","Забули пароль"
-"Go back",Повертайся
 "Social Login","Соціальний вхід"
 "Send Password To Customer","Надіслати пароль для клієнта"
 "Show Social Login Buttons on","Показати кнопки входу до соціальних мереж"
@@ -33,7 +31,6 @@ Zoom-out,Зменшення
 "Custom Color","Користувацький колір"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Створіть додаток <a href=""https://developers.facebook.com/apps"" target=""_bank"">тут:</a>"
-"Facebook App Id","Ідентифікатор програми Facebook"
 "Facebook App Secret","Facebook таємниця програми"
 "Valid OAuth redirect URIs","Дійсні URI перенаправлення OAuth"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Створіть додаток <a href=""https://dev.twitter.com/apps"" target=""_bank"">тут:</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Створіть додаток <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">тут:</a>"
-"Id Client","Ідентичний Клієнт"
 "Secret Client","Секретний клієнт"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Створіть додаток <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">тут:</a>"
 Foursquare,Квадрат
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Створіть додаток <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">тут:</a>"
-"Callback Url","URL-адреса зворотного дзвінка"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Створіть додаток <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">тут:</a>"
 Vkontakte,Вконтакте

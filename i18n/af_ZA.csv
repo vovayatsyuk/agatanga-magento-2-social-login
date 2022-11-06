@@ -16,14 +16,12 @@ Newspaper,Koerant
 Zoom-out,Klik-out
 "Customer Login Page","Customer Login Page"
 "Customer Create Page","Kliënt Skep Bladsy"
-"Social Popup Login","Social Popup Login"
 "Login By %1","Inteken deur %1"
 "Sign in with %1","Teken in met %1"
 "Create New Account?","Skep nuwe rekening?"
 "Or Sign In With","Of teken in met"
 "Create New Account","Skep nuwe rekening"
 "Forgot Password","Wagwoord vergeet"
-"Go back","Gaan terug"
 "Social Login","Sosiale aanmelding"
 "Send Password To Customer","Stuur wagwoord na kliënt"
 "Show Social Login Buttons on","Wys sosiale aanmeldknoppies op"
@@ -33,7 +31,6 @@ Zoom-out,Klik-out
 "Custom Color","Aangepaste Kleur"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Skep app <a href=""https://developers.facebook.com/apps"" target=""_bank"">hier</a>"
-"Facebook App Id","Facebook App Id"
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","Geldige OAuth-herlei-URI's"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Skep app <a href=""https://dev.twitter.com/apps"" target=""_bank"">hier</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Skep app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">hier</a>"
-"Id Client","Id Kliënt"
 "Secret Client","Geheime Kliënt"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Skep app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">hier</a>"
 Foursquare,vierkantig
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Skep app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">hier</a>"
-"Callback Url","Terugbel Url"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Skep app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">hier</a>"
 Vkontakte,Vkontakte

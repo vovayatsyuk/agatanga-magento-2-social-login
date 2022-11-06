@@ -16,14 +16,12 @@ Newspaper,新聞
 Zoom-out,ズームアウトする
 "Customer Login Page",顧客ログインページ
 "Customer Create Page",顧客作成ページ
-"Social Popup Login",ソーシャルポップアップのログイン
 "Login By %1","ログイン %1"
 "Sign in with %1",%1でログイン
 "Create New Account?",新しいアカウントを作成する？
 "Or Sign In With",またはサインイン
 "Create New Account",新しいアカウントを作成する
 "Forgot Password",パスワードをお忘れですか
-"Go back",戻る
 "Social Login",社会的なログイン
 "Send Password To Customer",顧客にパスワードを送信する
 "Show Social Login Buttons on",ソーシャルログインボタンを表示する
@@ -33,7 +31,6 @@ Zoom-out,ズームアウトする
 "Custom Color",カスタムカラー
 Facebook,フェイスブック
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","ここでアプリ <a href=""https://developers.facebook.com/apps"" target=""_bank"">を作成する</a>"
-"Facebook App Id",FacebookのアプリID
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs",有効なOAuthリダイレクトURI
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","ここでアプリ <a href=""https://dev.twitter.com/apps"" target=""_bank"">を作成する</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","ここでアプリ <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">を作成する</a>"
-"Id Client",IDクライアント
 "Secret Client",秘密のクライアント
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","ここでアプリ <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">を作成する</a>"
 Foursquare,フォースクエア
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","ここでアプリ <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">を作成する</a>"
-"Callback Url",コールバックURL
 Instagram,インスタグラム
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","ここでアプリ <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">を作成する</a>"
 Vkontakte,Vkontakte

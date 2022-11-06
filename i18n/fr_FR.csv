@@ -16,14 +16,12 @@ Newspaper,Journal
 Zoom-out,Dézoomer
 "Customer Login Page","Page de connexion du client"
 "Customer Create Page","Page de création de client"
-"Social Popup Login","Social Popup Connexion"
 "Login By %1","Connexion par %1"
 "Sign in with %1","Se connecter avec %1"
 "Create New Account?","Créer un nouveau compte?"
 "Or Sign In With","Ou connectez-vous avec"
 "Create New Account","Créer un nouveau compte"
 "Forgot Password","Mot de passe oublié"
-"Go back",Retourner
 "Social Login","Connexion sociale"
 "Send Password To Customer","Envoyer le mot de passe au client"
 "Show Social Login Buttons on","Afficher les boutons de connexion sociale sur"
@@ -33,7 +31,6 @@ Zoom-out,Dézoomer
 "Custom Color","Couleur personnalisée"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Créer l'application <a href=""https://developers.facebook.com/apps"" target=""_bank"">ici</a>"
-"Facebook App Id","Identifiant de l'application Facebook"
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","URI de redirection OAuth valides"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Gazouillement
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Créer l'application <a href=""https://dev.twitter.com/apps"" target=""_bank"">ici</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Créer l'application <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">ici</a>"
-"Id Client","Id Client"
 "Secret Client","Client secret"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Créer l'application <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">ici</a>"
 Foursquare,Foursquare
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Créer l'application <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">ici</a>"
-"Callback Url","URL de rappel"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Créer l'application <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">ici</a>"
 Vkontakte,Vkontakte

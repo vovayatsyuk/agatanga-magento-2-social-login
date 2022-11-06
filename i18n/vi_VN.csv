@@ -16,14 +16,12 @@ Newspaper,"Báo chí"
 Zoom-out,"Thu nhỏ"
 "Customer Login Page","Trang đăng nhập khách hàng"
 "Customer Create Page","Trang tạo khách hàng"
-"Social Popup Login","Social Popup Login"
 "Login By %1","Đăng nhập theo %1"
 "Sign in with %1","Đăng nhập với %1"
 "Create New Account?","Tạo tài khoản mới?"
 "Or Sign In With","Hoặc Đăng nhập bằng"
 "Create New Account","Tạo tài khoản mới"
 "Forgot Password","Quên mật khẩu"
-"Go back","Quay lại"
 "Social Login","Đăng nhập trên mạng xã hội"
 "Send Password To Customer","Gửi mật khẩu cho khách hàng"
 "Show Social Login Buttons on","Hiển thị nút đăng nhập trên mạng xã hội trên"
@@ -33,7 +31,6 @@ Zoom-out,"Thu nhỏ"
 "Custom Color","Tự phối màu"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Tạo ứng dụng <a href=""https://developers.facebook.com/apps"" target=""_bank"">tại đây</a>"
-"Facebook App Id","Id ứng dụng Facebook"
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","URI thay đổi OAuth hợp lệ"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Tạo ứng dụng <a href=""https://dev.twitter.com/apps"" target=""_bank"">tại đây</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Tạo ứng dụng <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">tại đây</a>"
-"Id Client","Khách hàng Id"
 "Secret Client","Khách hàng bí mật"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Tạo ứng dụng <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">tại đây</a>"
 Foursquare,Foursquare
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Tạo ứng dụng <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">tại đây</a>"
-"Callback Url","Gọi lại URL"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Tạo ứng dụng <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">tại đây</a>"
 Vkontakte,Vkontakte

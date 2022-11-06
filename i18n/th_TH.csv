@@ -16,14 +16,12 @@ Newspaper,Newspaper
 Zoom-out,Zoom-out
 "Customer Login Page","Customer Login Page"
 "Customer Create Page","Customer Create Page"
-"Social Popup Login","Social Popup Login"
 "Login By %1","Login By %1"
 "Sign in with %1","Sign in with %1"
 "Create New Account?","Create New Account?"
 "Or Sign In With","Or Sign In With"
 "Create New Account","Create New Account"
 "Forgot Password","Forgot Password"
-"Go back","Go back"
 "Social Login","Social Login"
 "Send Password To Customer","Send Password To Customer"
 "Show Social Login Buttons on","Show Social Login Buttons on"
@@ -33,7 +31,6 @@ Zoom-out,Zoom-out
 "Custom Color","Custom Color"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>"
-"Facebook App Id","Facebook App Id"
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","Valid OAuth redirect URIs"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>"
-"Id Client","Id Client"
 "Secret Client","Secret Client"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>"
 Foursquare,Foursquare
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>"
-"Callback Url","Callback Url"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>"
 Vkontakte,Vkontakte
