@@ -16,14 +16,12 @@ Newspaper,"Surat kabar"
 Zoom-out,Perbesar-perkecil
 "Customer Login Page","Halaman login pelanggan"
 "Customer Create Page","Pelanggan Membuat Halaman"
-"Social Popup Login","Masuk ke popup sosial"
 "Login By %1","Masuk Dengan %1"
 "Sign in with %1","Masuk dengan %1"
 "Create New Account?","Buat Akun Baru?"
 "Or Sign In With","Atau Masuk Dengan"
 "Create New Account","Buat Akun Baru"
 "Forgot Password","Lupa Kata sandi"
-"Go back",Kembali
 "Social Login","Masuk Sosial"
 "Send Password To Customer","Kirim Password Ke Pelanggan"
 "Show Social Login Buttons on","Acara Sosial Login Tombol pada"
@@ -33,7 +31,6 @@ Zoom-out,Perbesar-perkecil
 "Custom Color","Warna Kustom"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Membuat aplikasi <a href=""https://developers.facebook.com/apps"" target=""_bank""> di sini</a>"
-"Facebook App Id","Id aplikasi facebook"
 "Facebook App Secret","Rahasia aplikasi facebook"
 "Valid OAuth redirect URIs","Berlaku OAuth mengarahkan Uri"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Pelajari selanjutnya <a href=""https://dev.twitter.com/apps"" target=""_bank"">disini</a>"
 LinkedIn,Google+
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Membuat aplikasi <a href=""https://www.linkedin.com/secure/developer"" target=""_bank""> di sini</a>"
-"Id Client","Id Pelanggan"
 "Secret Client","Rahasia Klien"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Buat aplikasi <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">di sini</a>"
 Foursquare,Foursquare
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Membuat aplikasi <a href=""https://www.foursquare.com/oauth/"" target=""_bank""> di sini</a>"
-"Callback Url","Panggilan kembali url"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Membuat aplikasi <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank""> di sini</a>"
 Vkontakte,Vkontakte

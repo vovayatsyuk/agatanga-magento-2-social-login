@@ -16,14 +16,12 @@ Newspaper,Gazeta
 Zoom-out,Pomniejszenie
 "Customer Login Page","Strona logowania klienta"
 "Customer Create Page","Klient Utwórz stronę"
-"Social Popup Login","Social Popup Zaloguj się"
 "Login By %1","Zaloguj się przez %1"
 "Sign in with %1","Zaloguj się przy pomocy %1"
 "Create New Account?","Stwórz nowe konto?"
 "Or Sign In With","Lub Zaloguj się"
 "Create New Account","Stwórz nowe konto"
 "Forgot Password","Zapomniałeś hasła"
-"Go back",Wróć
 "Social Login","Logowanie społecznościowe"
 "Send Password To Customer","Wyślij hasło do klienta"
 "Show Social Login Buttons on","Pokaż przyciski logowania społecznościowego włączone"
@@ -33,7 +31,6 @@ Zoom-out,Pomniejszenie
 "Custom Color","Niestandardowy kolor"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Utwórz aplikację <a href=""https://developers.facebook.com/apps"" target=""_bank"">tutaj</a>"
-"Facebook App Id","Identyfikator aplikacji Facebook"
 "Facebook App Secret","Tajemnica aplikacji na Facebooku"
 "Valid OAuth redirect URIs","Prawidłowe identyfikatory URI przekierowania OAuth"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Świergot
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Utwórz aplikację <a href=""https://dev.twitter.com/apps"" target=""_bank"">tutaj</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Utwórz aplikację <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">tutaj</a>"
-"Id Client","Klient Id"
 "Secret Client","Tajny klient"
 Yahoo,Wieśniak
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Utwórz aplikację <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">tutaj</a>"
 Foursquare,Foursquare
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Utwórz aplikację <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">tutaj</a>"
-"Callback Url","URL oddzwonienia"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Utwórz aplikację <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">tutaj</a>"
 Vkontakte,Vkontakte

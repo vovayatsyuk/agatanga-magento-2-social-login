@@ -16,14 +16,12 @@ Newspaper,Újság
 Zoom-out,Kicsinyítés
 "Customer Login Page","Ügyfél belépési oldal"
 "Customer Create Page","Ügyféloldalak létrehozása"
-"Social Popup Login","Szociális felugró bejelentkezés"
 "Login By %1","Bejelentkezés %1-ig"
 "Sign in with %1","Jelentkezzen be a %1-es verziójával"
 "Create New Account?","Új fiók létrehozása?"
 "Or Sign In With","Vagy jelentkezzen be"
 "Create New Account","Új fiók létrehozása"
 "Forgot Password","Elfelejtett jelszó"
-"Go back","Menjen vissza"
 "Social Login","Szociális belépés"
 "Send Password To Customer","Jelszó küldése az ügyfélnek"
 "Show Social Login Buttons on","Mutassa be a közösségi bejelentkezési gombokat"
@@ -33,7 +31,6 @@ Zoom-out,Kicsinyítés
 "Custom Color","Egyéni szín"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Alkalmazás létrehozása <a href=""https://developers.facebook.com/apps"" target=""_bank"">itt</a>"
-"Facebook App Id","Facebook alkalmazás azonosítója"
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","Érvényes OAuth átirányítási URI-k"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Alkalmazás létrehozása <a href=""https://dev.twitter.com/apps"" target=""_bank"">itt</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Alkalmazás létrehozása <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">itt</a>"
-"Id Client","Id ügyfél"
 "Secret Client","Titkos ügyfél"
 Yahoo,Jehu
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Alkalmazás létrehozása <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">itt</a>"
 Foursquare,Négyszögben
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Alkalmazás létrehozása <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">itt</a>"
-"Callback Url","Visszahívási URL"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Alkalmazás létrehozása <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">itt</a>"
 Vkontakte,Vkontakte

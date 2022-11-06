@@ -16,14 +16,12 @@ Newspaper,Ziar
 Zoom-out,"A micsora"
 "Customer Login Page","Pagina de conectare pentru clienți"
 "Customer Create Page","Client Crearea paginii"
-"Social Popup Login","Social Popup Login"
 "Login By %1","Conectare prin %1"
 "Sign in with %1","Conectați-vă cu %1"
 "Create New Account?","Creează un cont nou?"
 "Or Sign In With","Sau conectați-vă cu"
 "Create New Account","Creează un cont nou"
 "Forgot Password","Aţi uitat parola"
-"Go back",Întoarce-te
 "Social Login","Conectare socială"
 "Send Password To Customer","Trimiteți parola clientului"
 "Show Social Login Buttons on","Afișați butoanele de conectare socială pe"
@@ -33,7 +31,6 @@ Zoom-out,"A micsora"
 "Custom Color","Culoare particularizată"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Creați aplicația <a href=""https://developers.facebook.com/apps"" target=""_bank"">aici</a>"
-"Facebook App Id","Codul aplicației Facebook"
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","Valabil URI-uri de redirecționare OAuth"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,"Stare de nervozitate"
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Creați aplicația <a href=""https://dev.twitter.com/apps"" target=""_bank"">aici</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Creați aplicația <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">aici</a>"
-"Id Client","Id Client"
 "Secret Client","Client secret"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Creați aplicația <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">aici</a>"
 Foursquare,pătrat
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Creați aplicația <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">aici</a>"
-"Callback Url","Callback url"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Creați aplicația <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">aici</a>"
 Vkontakte,Vkontakte

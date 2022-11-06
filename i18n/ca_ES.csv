@@ -16,14 +16,12 @@ Newspaper,Diari
 Zoom-out,"Disminuir el zoom"
 "Customer Login Page","Pàgina d'inici de sessió al client"
 "Customer Create Page","Client Crea Pàgina"
-"Social Popup Login","Inici de sessió d'emergència social"
 "Login By %1","Inicia la sessió per %1"
 "Sign in with %1","Inicieu la sessió amb %1"
 "Create New Account?","Crear un nou compte?"
 "Or Sign In With","O inicieu la sessió"
 "Create New Account","Crear un nou compte"
 "Forgot Password","Has oblidat la contrasenya"
-"Go back",Torna
 "Social Login","Accés social"
 "Send Password To Customer","Enviar contrasenya al client"
 "Show Social Login Buttons on","Mostra botons d'inici de sessió social a"
@@ -33,7 +31,6 @@ Zoom-out,"Disminuir el zoom"
 "Custom Color","Color personalitzat"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Creeu l'aplicació <a href=""https://developers.facebook.com/apps"" target=""_bank"">aquí</a>"
-"Facebook App Id","Identificador de l'aplicació de Facebook"
 "Facebook App Secret","Secret de l'aplicació de Facebook"
 "Valid OAuth redirect URIs","URIs de redirecció OAuth vàlids"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Creeu l'aplicació <a href=""https://dev.twitter.com/apps"" target=""_bank"">aquí</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Creeu l'aplicació <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">aquí</a>"
-"Id Client","Client d'identificació"
 "Secret Client","Client secret"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Creeu l'aplicació <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">aquí</a>"
 Foursquare,Foursquare
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Creeu l'aplicació <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">aquí</a>"
-"Callback Url","Url de devolució de trucades"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Creeu l'aplicació <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">aquí</a>"
 Vkontakte,Vkontakte

@@ -16,14 +16,12 @@ Newspaper,Noviny
 Zoom-out,Oddálit
 "Customer Login Page","Stránka pro přihlášení zákazníka"
 "Customer Create Page","Zákazník Vytvořit stránku"
-"Social Popup Login","Social Popup Login"
 "Login By %1","Přihlásit se podle %1"
 "Sign in with %1","Přihlaste se %1"
 "Create New Account?","Vytvořit nový účet?"
 "Or Sign In With","Nebo se přihlaste"
 "Create New Account","Vytvořit nový účet"
 "Forgot Password","Zapomenuté heslo"
-"Go back","Jděte zpět"
 "Social Login","Sociální přihlášení"
 "Send Password To Customer","Odeslat heslo zákazníkovi"
 "Show Social Login Buttons on","Zobrazit tlačítka pro přihlášení do služby Social"
@@ -33,7 +31,6 @@ Zoom-out,Oddálit
 "Custom Color","Vlastní barva"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Zde si vytvořte aplikaci <a href=""https://developers.facebook.com/apps"" target=""_bank""></a>"
-"Facebook App Id","ID aplikace Facebook"
 "Facebook App Secret","Facebook tajné aplikace"
 "Valid OAuth redirect URIs","Platné identifikátory URI přesměrování OAuth"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Cvrlikání
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Zde si vytvořte aplikaci <a href=""https://dev.twitter.com/apps"" target=""_bank""></a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Zde si vytvořte aplikaci <a href=""https://www.linkedin.com/secure/developer"" target=""_bank""></a>"
-"Id Client","Identifikátor klienta"
 "Secret Client","Tajný klient"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Zde si vytvořte aplikaci <a href=""https://developer.yahoo.com/apps/"" target=""_bank""></a>"
 Foursquare,Foursquare
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Zde si vytvořte aplikaci <a href=""https://www.foursquare.com/oauth/"" target=""_bank""></a>"
-"Callback Url","Adresa URL zpětného volání"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Zde si vytvořte aplikaci <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank""></a>"
 Vkontakte,Vkontakte

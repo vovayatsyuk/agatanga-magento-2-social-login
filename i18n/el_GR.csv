@@ -16,14 +16,12 @@ Newspaper,Εφημερίδα
 Zoom-out,Σμίκρυνση
 "Customer Login Page","Σελίδα σύνδεσης με τον πελάτη"
 "Customer Create Page","Πελάτης Δημιουργία σελίδας"
-"Social Popup Login","Κοινωνική αναδυόμενη σύνδεση"
 "Login By %1","Σύνδεση με %1"
 "Sign in with %1","Συνδεθείτε με το %1"
 "Create New Account?","Δημιουργία νέου λογαριασμού?"
 "Or Sign In With","Ή Σύνδεση με"
 "Create New Account","Δημιουργία νέου λογαριασμού"
 "Forgot Password","Ξεχάσατε τον κωδικό"
-"Go back","Πήγαινε πίσω"
 "Social Login","Κοινωνική σύνδεση"
 "Send Password To Customer","Αποστολή κωδικού πρόσβασης στον πελάτη"
 "Show Social Login Buttons on","Εμφάνιση κουμπιών κοινωνικής σύνδεσης στο"
@@ -33,7 +31,6 @@ Zoom-out,Σμίκρυνση
 "Custom Color","Προσαρμοσμένο χρώμα"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Δημιουργήστε την εφαρμογή <a href=""https://developers.facebook.com/apps"" target=""_bank"">εδώ</a>"
-"Facebook App Id","Αναγνωριστικό αναγνωριστικού Facebook"
 "Facebook App Secret","Facebook Μυστικό App"
 "Valid OAuth redirect URIs","Ισχύουν URIs ανακατεύθυνσης OAuth"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Κελάδημα
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Δημιουργήστε την εφαρμογή <a href=""https://dev.twitter.com/apps"" target=""_bank"">εδώ</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Δημιουργήστε την εφαρμογή <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">εδώ</a>"
-"Id Client","Αναγνωριστικό πελάτη"
 "Secret Client","Μυστικός πελάτης"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Δημιουργήστε την εφαρμογή <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">εδώ</a>"
 Foursquare,Τετράγωνο
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Δημιουργήστε την εφαρμογή <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">εδώ</a>"
-"Callback Url","Επανάκληση κλήσης"
 Instagram,Ίνσταγκραμ
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Δημιουργήστε την εφαρμογή <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">εδώ</a>"
 Vkontakte,Vkontakte

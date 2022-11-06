@@ -16,14 +16,12 @@ Newspaper,sanomalehti
 Zoom-out,Loitontaa
 "Customer Login Page","Asiakas kirjautuminen sivu"
 "Customer Create Page","Asiakas luo sivun"
-"Social Popup Login","Sosiaalinen popup-kirjautuminen"
 "Login By %1","Kirjaudu sisään mennessä %1"
 "Sign in with %1","Kirjaudu sisään %1"
 "Create New Account?","Luo uusi tili?"
 "Or Sign In With","Tai kirjaudu sisään"
 "Create New Account","Luo uusi tili"
 "Forgot Password","Unohtuiko salasana"
-"Go back","Mene takaisin"
 "Social Login","Sosiaalinen kirjautuminen"
 "Send Password To Customer","Lähetä salasana asiakkaalle"
 "Show Social Login Buttons on","Näytä sosiaalisen tunnuksen painikkeet"
@@ -33,7 +31,6 @@ Zoom-out,Loitontaa
 "Custom Color","Mukautettu väri"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Luo sovellus <a href=""https://developers.facebook.com/apps"" target=""_bank"">täältä</a>"
-"Facebook App Id","Facebook-sovelluksen tunnus"
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","Voimassa OAuth-uudelleenohjaus URI: t"
 Google,Google
@@ -45,13 +42,11 @@ Twitter,Viserrys
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Luo sovellus <a href=""https://dev.twitter.com/apps"" target=""_bank"">täältä</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Luo sovellus <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">täältä</a>"
-"Id Client","Id asiakas"
 "Secret Client","Salainen asiakas"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Luo sovellus <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">täältä</a>"
 Foursquare,luja
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Luo sovellus <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">täältä</a>"
-"Callback Url","Kutsu Url"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Luo sovellus <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">täältä</a>"
 Vkontakte,vkontakte
