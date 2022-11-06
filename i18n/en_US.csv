@@ -84,10 +84,6 @@ Github,Github
 "Create app <a href=""https://account.live.com/developers/applications/create"" target=""_bank"">here</a>","Create app <a href=""https://account.live.com/developers/applications/create"" target=""_bank"">here</a>"
 "Create app <a href=""https://developers.zalo.me/createapp"" target=""_bank"">here</a>","Create app <a href=""https://developers.zalo.me/createapp"" target=""_bank"">here</a>"
 "Mageplaza Social Login","Mageplaza Social Login"
-"Facebook App Id","Facebook App Id"
 Zalo,Zalo
-"Id Client","Id Client"
 "Redirect URI(s)","Redirect URI(s)"
 "Application secret key","Application secret key"
-"Social Popup Login","Social Popup Login"
-"Callback Url","Callback Url"
