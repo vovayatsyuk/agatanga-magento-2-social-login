@@ -16,12 +16,14 @@ Newspaper,جريدة
 Zoom-out,تصغير
 "Customer Login Page","صفحة تسجيل دخول العملاء"
 "Customer Create Page","صفحة تكوين العملاء"
+"Social Popup Login","المنبثقة الاجتماعية تسجيل الدخول"
 "Login By %1","تسجيل الدخول بواسطة %1"
 "Sign in with %1","تسجيل الدخول مع %1"
 "Create New Account?","انشاء حساب جديد؟"
 "Or Sign In With","أو تسجيل الدخول مع"
 "Create New Account","انشاء حساب جديد"
 "Forgot Password","هل نسيت كلمة المرور"
+"Go back",عُد
 "Social Login","تسجيل الدخول الاجتماعي"
 "Send Password To Customer","إرسال كلمة المرور للعميل"
 "Show Social Login Buttons on","إظهار أزرار تسجيل الدخول الاجتماعية على"
@@ -31,6 +33,7 @@ Zoom-out,تصغير
 "Custom Color","لون مخصص"
 Facebook,"فيس بوك"
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","إنشاء التطبيق <a href=""https://developers.facebook.com/apps"" target=""_bank"">هنا</a>"
+"Facebook App Id","معرف تطبيق Facebook"
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","صالح OAuth إعادة توجيه معرفات URI"
 Google,جوجل
@@ -42,11 +45,13 @@ Twitter,تغريد
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","إنشاء التطبيق <a href=""https://dev.twitter.com/apps"" target=""_bank"">هنا</a>"
 LinkedIn,ينكدين
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","إنشاء التطبيق <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">هنا</a>"
+"Id Client","معرف العميل"
 "Secret Client","عميل سري"
 Yahoo,ياهو
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","إنشاء التطبيق <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">هنا</a>"
 Foursquare,"شخصيات قصص الابطال الخارقين"
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","إنشاء التطبيق <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">هنا</a>"
+"Callback Url","عاود الاتصال بالعنوان"
 Instagram,إينستاجرام
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","إنشاء التطبيق <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">هنا</a>"
 Vkontakte,فكونتاكتي

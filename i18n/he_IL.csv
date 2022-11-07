@@ -16,12 +16,14 @@ Newspaper,עיתון
 Zoom-out,"להקטין את התצוגה"
 "Customer Login Page","דף הכניסה של הלקוח"
 "Customer Create Page","לקוח צור דף"
+"Social Popup Login","התחברות לחלונות קופצים"
 "Login By %1","התחברות עד %1"
 "Sign in with %1","היכנס באמצעות %1"
 "Create New Account?","ליצור חשבון חדש?"
 "Or Sign In With","או להיכנס עם"
 "Create New Account","ליצור חשבון חדש"
 "Forgot Password","שכחת את הסיסמא"
+"Go back",תחזור
 "Social Login","התחברות חברתית"
 "Send Password To Customer","שלח סיסמה ללקוח"
 "Show Social Login Buttons on","הצג לחצני כניסה חברתיים ב"
@@ -31,6 +33,7 @@ Zoom-out,"להקטין את התצוגה"
 "Custom Color","צבע מותאם אישית"
 Facebook,פייסבוק
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","צור אפליקציה <a href=""https://developers.facebook.com/apps"" target=""_bank"">כאן</a>"
+"Facebook App Id","זיהוי אפליקציית פייסבוק"
 "Facebook App Secret","סוד פייסבוק"
 "Valid OAuth redirect URIs","OAuth תקף מפנה כתובות URI"
 Google,Google
@@ -42,11 +45,13 @@ Twitter,טוויטר
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","צור אפליקציה <a href=""https://dev.twitter.com/apps"" target=""_bank"">כאן</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","צור אפליקציה <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">כאן</a>"
+"Id Client","לקוח מזהה"
 "Secret Client","לקוח סודי"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","צור אפליקציה <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">כאן</a>"
 Foursquare,4
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","צור אפליקציה <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">כאן</a>"
+"Callback Url","כתובת אתר של Callback"
 Instagram,אינסטגרם
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","צור אפליקציה <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">כאן</a>"
 Vkontakte,Vkontakte

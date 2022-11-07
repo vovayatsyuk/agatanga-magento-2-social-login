@@ -16,12 +16,14 @@ Newspaper,报纸
 Zoom-out,缩小
 "Customer Login Page",客户登录页面
 "Customer Create Page",客户创建页面
+"Social Popup Login",社交弹出登录
 "Login By %1","登录由 %1"
 "Sign in with %1","用 %1登录"
 "Create New Account?",建立新帐户？
 "Or Sign In With",或登录与
 "Create New Account",建立新帐户
 "Forgot Password",忘记密码
+"Go back",回去
 "Social Login",社交登录
 "Send Password To Customer",发送密码给客户
 "Show Social Login Buttons on",显示社交登录按钮
@@ -31,6 +33,7 @@ Zoom-out,缩小
 "Custom Color",自定义颜色
 Facebook,Facebook的
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","在这里创建应用程序 <a href=""https://developers.facebook.com/apps"" target=""_bank""></a>"
+"Facebook App Id",Facebook应用程序ID
 "Facebook App Secret",Facebook应用程序秘密
 "Valid OAuth redirect URIs",有效的OAuth重定向URI
 Google,谷歌
@@ -42,11 +45,13 @@ Twitter,推特
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","在这里创建应用程序 <a href=""https://dev.twitter.com/apps"" target=""_bank""></a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","在这里创建应用程序 <a href=""https://www.linkedin.com/secure/developer"" target=""_bank""></a>"
+"Id Client",Id客户端
 "Secret Client",秘密客户
 Yahoo,雅虎
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","在这里创建应用程序 <a href=""https://developer.yahoo.com/apps/"" target=""_bank""></a>"
 Foursquare,四方
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","在这里创建应用程序 <a href=""https://www.foursquare.com/oauth/"" target=""_bank""></a>"
+"Callback Url",回拨网址
 Instagram,Instagram的
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","在这里创建应用程序 <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank""></a>"
 Vkontakte,VKontakte等

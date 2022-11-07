@@ -16,12 +16,14 @@ Newspaper,Periódico
 Zoom-out,"Disminuir el zoom"
 "Customer Login Page","Página de acceso del cliente"
 "Customer Create Page","Página de creación de cliente"
+"Social Popup Login","Inicio de sesión emergente social"
 "Login By %1","Login Por %1"
 "Sign in with %1","Iniciar sesión con %1"
 "Create New Account?","¿Crear una nueva cuenta?"
 "Or Sign In With","O inicia sesión con"
 "Create New Account","Crear una nueva cuenta"
 "Forgot Password","Se te olvidó tu contraseña"
+"Go back",Regresa
 "Social Login","Inicio de sesión social"
 "Send Password To Customer","Enviar contraseña al cliente"
 "Show Social Login Buttons on","Mostrar botones de inicio de sesión social en"
@@ -31,6 +33,7 @@ Zoom-out,"Disminuir el zoom"
 "Custom Color","Color personalizado"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Crear aplicación <a href=""https://developers.facebook.com/apps"" target=""_bank"">aquí</a>"
+"Facebook App Id","ID de la aplicación de Facebook"
 "Facebook App Secret","Secreto de aplicación de Facebook"
 "Valid OAuth redirect URIs","URI de redirección de OAuth válidos"
 Google,Google
@@ -42,11 +45,13 @@ Twitter,Gorjeo
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Crear aplicación <a href=""https://dev.twitter.com/apps"" target=""_bank"">aquí</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Crear aplicación <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">aquí</a>"
+"Id Client","Id Client"
 "Secret Client","Cliente secreto"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Crear aplicación <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">aquí</a>"
 Foursquare,Firme
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Crear aplicación <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">aquí</a>"
+"Callback Url","Url de devolución de llamada"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Crear aplicación <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">aquí</a>"
 Vkontakte,Vkontakte
