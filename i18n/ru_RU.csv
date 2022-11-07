@@ -16,12 +16,14 @@ Newspaper,Газета
 Zoom-out,Уменьшить
 "Customer Login Page","Страница входа в систему"
 "Customer Create Page","Создать страницу клиента"
+"Social Popup Login","Вход в социальные сети"
 "Login By %1","Войти через %1"
 "Sign in with %1","Войти через %1"
 "Create New Account?","Создать новый аккаунт?"
 "Or Sign In With","Или Войти с"
 "Create New Account","Создать новый аккаунт"
 "Forgot Password","Забыли пароль"
+"Go back",Возвращаться
 "Social Login","Социальный вход"
 "Send Password To Customer","Отправить пароль клиенту"
 "Show Social Login Buttons on","Показать кнопки социального входа"
@@ -31,6 +33,7 @@ Zoom-out,Уменьшить
 "Custom Color","Пользовательский цвет"
 Facebook,facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Создать приложение <a href=""https://developers.facebook.com/apps"" target=""_bank"">здесь</a>"
+"Facebook App Id","Идентификатор приложения Facebook"
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","Действительные URI перенаправления OAuth"
 Google,Google
@@ -42,11 +45,13 @@ Twitter,щебет
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Создать приложение <a href=""https://dev.twitter.com/apps"" target=""_bank"">здесь</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Создать приложение <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">здесь</a>"
+"Id Client","Id Client"
 "Secret Client","Секретный клиент"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Создать приложение <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">здесь</a>"
 Foursquare,квадрат
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Создать приложение <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">здесь</a>"
+"Callback Url","URL-адрес обратного вызова"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Создать приложение <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">здесь</a>"
 Vkontakte,Vkontakte

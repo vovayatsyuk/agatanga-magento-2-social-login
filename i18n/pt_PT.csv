@@ -16,12 +16,14 @@ Newspaper,Jornal
 Zoom-out,"Reduzir o zoom"
 "Customer Login Page","Página de Login do Cliente"
 "Customer Create Page","Cliente Criar Página"
+"Social Popup Login","Login Popup Social"
 "Login By %1","Entrar por %1"
 "Sign in with %1","Faça login com %1"
 "Create New Account?","Criar nova conta?"
 "Or Sign In With","Ou faça o login com"
 "Create New Account","Criar nova conta"
 "Forgot Password","Esqueceu a senha"
+"Go back",Volte
 "Social Login","Login Social"
 "Send Password To Customer","Enviar Senha ao Cliente"
 "Show Social Login Buttons on","Mostrar botões de login social em"
@@ -31,6 +33,7 @@ Zoom-out,"Reduzir o zoom"
 "Custom Color","Cor customizada"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Criar aplicativo <a href=""https://developers.facebook.com/apps"" target=""_bank"">aqui</a>"
+"Facebook App Id","Id do aplicativo do Facebook"
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","URIs de redirecionamento de OAuth válidas"
 Google,Google
@@ -42,11 +45,13 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Criar aplicativo <a href=""https://dev.twitter.com/apps"" target=""_bank"">aqui</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Criar aplicativo <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">aqui</a>"
+"Id Client","Id Client"
 "Secret Client","Cliente secreto"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Criar aplicativo <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">aqui</a>"
 Foursquare,Foursquare
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Criar aplicativo <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">aqui</a>"
+"Callback Url","Url de retorno de chamada"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Criar aplicativo <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">aqui</a>"
 Vkontakte,Vkontakte

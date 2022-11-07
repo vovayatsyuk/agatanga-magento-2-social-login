@@ -16,12 +16,14 @@ Newspaper,Avis
 Zoom-out,"Zoome ud"
 "Customer Login Page","Kunde login side"
 "Customer Create Page","Kunde Opret Side"
+"Social Popup Login","Social popup-login"
 "Login By %1","Log ind af %1"
 "Sign in with %1","Log ind med %1"
 "Create New Account?","Opret ny konto?"
 "Or Sign In With","Eller Log ind med"
 "Create New Account","Opret ny konto"
 "Forgot Password","Glemt kodeord"
+"Go back","Gå tilbage"
 "Social Login","Social login"
 "Send Password To Customer","Send adgangskode til kunde"
 "Show Social Login Buttons on","Vis sociale login knapper på"
@@ -31,6 +33,7 @@ Zoom-out,"Zoome ud"
 "Custom Color","Brugerdefineret farve"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Opret app <a href=""https://developers.facebook.com/apps"" target=""_bank"">her</a>"
+"Facebook App Id","Facebook App Id"
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","Gyldige OAuth omdirigere URI'er"
 Google,Google
@@ -42,11 +45,13 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Opret app <a href=""https://dev.twitter.com/apps"" target=""_bank"">her</a>"
 LinkedIn,LinkedIn
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Opret app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">her</a>"
+"Id Client",Id-klient
 "Secret Client","Secret Client"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Opret app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">her</a>"
 Foursquare,Foursquare
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Opret app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">her</a>"
+"Callback Url","Tilbagekaldelse Url"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Opret app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">her</a>"
 Vkontakte,Vkontakte

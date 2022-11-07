@@ -16,12 +16,14 @@ Newspaper,Tidning
 Zoom-out,"Zooma ut"
 "Customer Login Page",Kundinloggningssida
 "Customer Create Page","Kund Skapa sida"
+"Social Popup Login","Social popup-inloggning"
 "Login By %1","Logga in av %1"
 "Sign in with %1","Logga in med %1"
 "Create New Account?","Skapa nytt konto?"
 "Or Sign In With","Eller logga in med"
 "Create New Account","Skapa nytt konto"
 "Forgot Password","Glömt ditt lösenord"
+"Go back","Gå tillbaka"
 "Social Login","Social inloggning"
 "Send Password To Customer","Skicka lösenord till kund"
 "Show Social Login Buttons on","Visa sociala inloggningsknappar på"
@@ -31,6 +33,7 @@ Zoom-out,"Zooma ut"
 "Custom Color","Anpassad färg"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Skapa app <a href=""https://developers.facebook.com/apps"" target=""_bank"">här</a>"
+"Facebook App Id","Facebook App Id"
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","Giltiga OAuth-omdirigera URI-filer"
 Google,Google
@@ -42,11 +45,13 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Skapa app <a href=""https://dev.twitter.com/apps"" target=""_bank"">här</a>"
 LinkedIn,Linkedin
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Skapa app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">här</a>"
+"Id Client",Id-klient
 "Secret Client","Hemlig klient"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Skapa app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">här</a>"
 Foursquare,Foursquare
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Skapa app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">här</a>"
+"Callback Url","Återuppringning Url"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Skapa app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">här</a>"
 Vkontakte,VKontakte

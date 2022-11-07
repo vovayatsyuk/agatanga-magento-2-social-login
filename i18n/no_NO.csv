@@ -16,12 +16,14 @@ Newspaper,Avis
 Zoom-out,"Zoome ut"
 "Customer Login Page",Kundeinnloggingsside
 "Customer Create Page","Kundeopprett side"
+"Social Popup Login","Sosial popup-pålogging"
 "Login By %1","Logg inn av %1"
 "Sign in with %1","Logg inn med %1"
 "Create New Account?","Opprette ny konto?"
 "Or Sign In With","Eller logg inn med"
 "Create New Account","Opprette ny konto"
 "Forgot Password","Glemt passord"
+"Go back","Gå tilbake"
 "Social Login","Sosial pålogging"
 "Send Password To Customer","Send passord til kunde"
 "Show Social Login Buttons on","Vis sosiale påloggingsknapper på"
@@ -31,6 +33,7 @@ Zoom-out,"Zoome ut"
 "Custom Color","Tilpasset farge"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Opprett app <a href=""https://developers.facebook.com/apps"" target=""_bank"">her</a>"
+"Facebook App Id","Facebook App Id"
 "Facebook App Secret","Facebook App Secret"
 "Valid OAuth redirect URIs","Gyldig OAuth-omdirigering av URIer"
 Google,Google
@@ -42,11 +45,13 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Opprett app <a href=""https://dev.twitter.com/apps"" target=""_bank"">her</a>"
 LinkedIn,Linkedin
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Opprett app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">her</a>"
+"Id Client","Id Client"
 "Secret Client","Secret Client"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Opprett app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">her</a>"
 Foursquare,Foursquare
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Opprett app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">her</a>"
+"Callback Url","Tilbakeringingsadresse Url"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Opprett app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">her</a>"
 Vkontakte,Vkontakte

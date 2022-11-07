@@ -16,12 +16,14 @@ Newspaper,Giornale
 Zoom-out,"Diminuisci zoom"
 "Customer Login Page","Pagina accesso cliente"
 "Customer Create Page","Crea pagina cliente"
+"Social Popup Login","Accesso attraverso Social Popup"
 "Login By %1","Accedi da %1"
 "Sign in with %1","Registrati con %1"
 "Create New Account?","Creare un nuovo account?"
 "Or Sign In With","Oppure accedi con"
 "Create New Account","Creare un nuovo account"
 "Forgot Password","Password dimenticata"
+"Go back","Torna indietro"
 "Social Login","Entra con i social"
 "Send Password To Customer","Invia password al cliente"
 "Show Social Login Buttons on","Mostra pulsanti di accesso Social"
@@ -31,6 +33,7 @@ Zoom-out,"Diminuisci zoom"
 "Custom Color","Colore personalizzato"
 Facebook,Facebook
 "Create app <a href=""https://developers.facebook.com/apps"" target=""_bank"">here</a>","Crea app <a href=""https://developers.facebook.com/apps"" target=""_bank"">qui</a>"
+"Facebook App Id","Id App Facebook"
 "Facebook App Secret","App Secret Facebook"
 "Valid OAuth redirect URIs","OAuth valido reindirizzare gli URL"
 Google,Google
@@ -42,11 +45,13 @@ Twitter,Twitter
 "Create app <a href=""https://dev.twitter.com/apps"" target=""_bank"">here</a>","Crea app<a href=""https://dev.twitter.com/apps"" target=""_bank"">qui</a>"
 LinkedIn,Linkedln
 "Create app <a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">here</a>","Crea app<a href=""https://www.linkedin.com/secure/developer"" target=""_bank"">qui</a>"
+"Id Client","Id Cliente"
 "Secret Client","Secret Cliente"
 Yahoo,Yahoo
 "Create app <a href=""https://developer.yahoo.com/apps/"" target=""_bank"">here</a>","Crea app<a href=""https://developer.yahoo.com/apps/"" target=""_bank"">qui</a>"
 Foursquare,Foursquare
 "Create app <a href=""https://www.foursquare.com/oauth/"" target=""_bank"">here</a>","Crea app<a href=""https://www.foursquare.com/oauth/"" target=""_bank"">qui</a>"
+"Callback Url","Url di richiamo"
 Instagram,Instagram
 "Create app <a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">here</a>","Crea app<a href=""http://instagram.com/developer/clients/manage/"" target=""_bank"">qui</a>"
 Vkontakte,Vkontakte

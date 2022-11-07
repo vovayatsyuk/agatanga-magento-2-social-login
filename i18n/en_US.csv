@@ -1,3 +1,4 @@
+"If you have an account, sign in with your email address.","If you have an account, sign in with your email address."
 "Data error. Please try again.","Data error. Please try again."
 "Create an account successfully. Please wait...","Create an account successfully. Please wait..."
 "Email is Null, Please enter email in your %1 profile","Email is Null, Please enter email in your %1 profile"
@@ -37,7 +38,11 @@ Zoom-out,Zoom-out
 "Forgot Password","Forgot Password"
 "Could not authenticate. Please try again later","Could not authenticate. Please try again later"
 "Social Login","Social Login"
+"This extension is fully compatible with <a href=""https://www.mageplaza.com/magento-2-one-step-checkout-extension/"" target=""_blank"">One Step Checkout</a>.
+                    <br> Increase 25% conversion rate with <a href=""https://www.mageplaza.com/magento-2-layered-navigation-extension/"" target=""_blank"">Layered Navigation</a>","This extension is fully compatible with <a href=""https://www.mageplaza.com/magento-2-one-step-checkout-extension/"" target=""_blank"">One Step Checkout</a>.
+                    <br> Increase 25% conversion rate with <a href=""https://www.mageplaza.com/magento-2-layered-navigation-extension/"" target=""_blank"">Layered Navigation</a>"
 "Send Password To Customer","Send Password To Customer"
+"Install <a href=""https://www.mageplaza.com/magento-2-smtp/?utm_source=mageplaza&utm_medium=mageplaza&utm_campaign=social-login&utm_content=SMTP"" target=""_blank"">Mageplaza SMTP</a> to avoid sending emails to spam box.","Install <a href=""https://www.mageplaza.com/magento-2-smtp/?utm_source=mageplaza&utm_medium=mageplaza&utm_campaign=social-login&utm_content=SMTP"" target=""_blank"">Mageplaza SMTP</a> to avoid sending emails to spam box."
 "Require Enter Password","Require Enter Password"
 "Require enter password confirmation when logging in with social for the first time on existing account.","Require enter password confirmation when logging in with social for the first time on existing account."
 "Show Social Login Buttons on","Show Social Login Buttons on"
